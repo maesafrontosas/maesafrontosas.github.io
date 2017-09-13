@@ -5,8 +5,7 @@ date: 2017-08-27
 heading: "A hora certa!"
 author: "Janaina Guimarães da Silva"
 comments: true
-<<<<<<< HEAD
-foto: janaina
+foto: "janaina"
 capa: "/images/post-2017-08-27.jpg"
 preview: "Vivendo nessa sociedade do imediatismo, do fast-food, do tudo pra ontem, penso que aprender a respeitar o tempo é um ato de sabedoria e amor. O desenvolvimento de cada ser vivo nesse mundo é diferente; mesmo sendo da mesma espécie, como a nossa de humanos, os seres se desenvolverão de maneiras distintas, cada um no seu ritmo. Na “dança” do tempo, quando respeitado, não existem paços certos ou errados."
 categories: 
