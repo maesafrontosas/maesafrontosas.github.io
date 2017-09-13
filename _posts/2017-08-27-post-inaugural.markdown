@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Post Inaugural"
-date: 2017-08-27
+date: "2017-08-27"
 heading: "A hora certa!"
 author: "Janaina Guimarães da Silva"
 comments: true
