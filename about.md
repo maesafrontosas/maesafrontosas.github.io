@@ -1,8 +1,13 @@
 ---
 layout: page
+<<<<<<< HEAD
 title: Sobre
 permalink: /about/
 heading: "Sobre Mães Afrontosas"
+=======
+title: Sobre Mães Afrontosas
+permalink: /about/
+>>>>>>> b740f89307c05670b23a177f7251d2301da3c028
 ---
 
 O 'Mães Afrontosas' é um grupo de apoio, criado em junho de 2017. Somos mulheres, mães, amigas. Somos uma fraternidade!

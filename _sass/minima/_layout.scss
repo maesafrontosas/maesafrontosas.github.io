@@ -5,8 +5,11 @@
   border-top: 5px solid $grey-color-dark;
   border-bottom: 1px solid $grey-color-light;
   min-height: $spacing-unit * 1.865;
+<<<<<<< HEAD
     
  
+=======
+>>>>>>> b740f89307c05670b23a177f7251d2301da3c028
 
   // Positioning context for the mobile navigation icon
   position: relative;
@@ -18,8 +21,12 @@
   line-height: $base-line-height * $base-font-size * 2.25;
   letter-spacing: -1px;
   margin-bottom: 0;
+<<<<<<< HEAD
   float: center;
     
+=======
+  float: left;
+>>>>>>> b740f89307c05670b23a177f7251d2301da3c028
 
   &,
   &:visited {
@@ -30,7 +37,10 @@
 .site-nav {
   float: right;
   line-height: $base-line-height * $base-font-size * 2.25;
+<<<<<<< HEAD
    
+=======
+>>>>>>> b740f89307c05670b23a177f7251d2301da3c028
 
   .nav-trigger {
       display: none;
@@ -183,8 +193,11 @@
  */
 .page-content {
   padding: $spacing-unit 0;
+<<<<<<< HEAD
     background-color: ghostwhite; 
     opacity: 0.85;
+=======
+>>>>>>> b740f89307c05670b23a177f7251d2301da3c028
 }
 
 .page-heading {
@@ -217,6 +230,7 @@
  */
 .post-header {
   margin-bottom: $spacing-unit;
+<<<<<<< HEAD
     
     .chip {
     display: inline-block;
@@ -236,6 +250,8 @@
     border-radius: 50%;
 
 }
+=======
+>>>>>>> b740f89307c05670b23a177f7251d2301da3c028
 }
 
 .post-title {
