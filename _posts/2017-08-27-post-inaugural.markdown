@@ -6,6 +6,8 @@ heading: "A hora certa!"
 author: "Janaina Guimarães da Silva"
 comments: true
 foto: janaina
+capa: "/images/post-2017-08-27.jpg"
+preview: "Vivendo nessa sociedade do imediatismo, do fast-food, do tudo pra ontem, penso que aprender a respeitar o tempo é um ato de sabedoria e amor. O desenvolvimento de cada ser vivo nesse mundo é diferente; mesmo sendo da mesma espécie, como a nossa de humanos, os seres se desenvolverão de maneiras distintas, cada um no seu ritmo. Na “dança” do tempo, quando respeitado, não existem paços certos ou errados."
 categories: 
 ---
 
@@ -19,4 +21,4 @@ O que quero passar com essa mensagem é que entendo a ansiedade de familiares e 
 
 Não importa no que vocês acreditem, seja em Deus, na natureza ou na ciência, os três, cada um da sua maneira, levam o tempo em consideração. Por isso eu peço, entendam o nosso tempo, o tempo dela, não acelerem as coisas, não precisamos ser enquadradas/os na lógica dessa sociedade imediatista desde antes de nascermos.
 
-[Sobre a autora](http://goo.gl/mpAQnq): Janaina Guimarães da Silva, 24 anos, Assistente Social, Feminista, mãe de primeira vigem da Marina.
+[Sobre a autora](http://goo.gl/mpAQnq): Janaina Guimarães da Silva, 24 anos, Assistente Social, Feminista, mãe de primeira viagem da Marina.

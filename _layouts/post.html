@@ -13,22 +13,21 @@ layout: default
         {{ page.date | date: date_format }}
       </time>
       {% if page.author %}
-        <span itemprop="author" itemscope itemtype="http://schema.org/Person"></span>
-         <div class="chip">
+            <div class="chip">
             <img src="/images/{{ page.foto }}.jpg" alt="{{ page.author }}" width="96" height="96">
              <span itemprop="name">{{ page.author }}</span>
         </div>
       {% endif %}
-      
-      </p>
     
   </header>
+
+    {% include _share-page.html %}
 
   <div id="conteudo-post" itemprop="articleBody">
     {{ content }}
   </div>
    
-{% include _share-page.html %}
+
   {% if page.comments %}
     <div id="disqus_thread"></div>
 <script>

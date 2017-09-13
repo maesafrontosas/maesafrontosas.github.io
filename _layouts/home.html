@@ -4,19 +4,24 @@ layout: default
 
 <div class="home">
 
-  <h1 class="page-heading">Posts</h1>
+  <h1 class="page-heading">Artigos</h1>
   
   {{ content }}
 
   <ul class="post-list">
     {% for post in site.posts %}
       <li>
-        {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
+        {% assign date_format = site.minima.date_format | default: "%-d %b %Y" %}
         <span class="post-meta">{{ post.date | date: date_format }}</span>
 
         <h2>
-          <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
-        </h2>
+          <a class="post-link" href="{{ post.url | relative_url }}">{{ post.heading | escape }}</a>
+            </h2>
+          <span><p>por: {{ post.author }}</p></span>
+          <img src="{{ post.capa }}" alt="{{ post.heading }}">
+          <br>
+          <p>{{ post.preview }}</p>
+          <a class="post-link" href="{{ post.url | relative_url }}">Leia Mais!</a>
       </li>
     {% endfor %}
   </ul>
