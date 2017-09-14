@@ -4,15 +4,11 @@ layout: default
 <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
 
   <header class="post-header">
-<<<<<<< HEAD
-      
-=======
->>>>>>> b740f89307c05670b23a177f7251d2301da3c028
+
     <h1 class="post-title" itemprop="name headline">{{ page.heading | escape }}</h1>
       
     <p class="post-meta">
       <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
-<<<<<<< HEAD
         {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
         {{ page.date | date: date_format }}
       </time>
@@ -23,14 +19,12 @@ layout: default
         </div>
       {% endif %}
     
-=======
         {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
         {{ page.date | date: date_format }}
       </time>
       {% if page.author %}
         • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name"> Autora: {{ page.author }}</span></span>
       {% endif %}</p>
->>>>>>> b740f89307c05670b23a177f7251d2301da3c028
   </header>
 
     {% include _share-page.html %}
@@ -38,15 +32,8 @@ layout: default
   <div id="conteudo-post" itemprop="articleBody">
     {{ content }}
   </div>
-<<<<<<< HEAD
-   
-<<<<<<< HEAD
-
-=======
-=======
->>>>>>> b740f89307c05670b23a177f7251d2301da3c028
+  
 {% include _share-page.html %}
->>>>>>> e8279a34776228cf03eed063dfd91d3f37e3a7d8
   {% if page.comments %}
     <div id="disqus_thread"></div>
 <script>
