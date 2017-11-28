@@ -21,7 +21,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 facebook_username: maesafrontosas/
 twitter_username: maesafrontosas/
 instagram_username: maesafrontosas/
-author: JBDesing
+author: JB_Design_
 # Build settings
 markdown: kramdown
 permalink: /:year/:month/:day/:title
